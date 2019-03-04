@@ -3,8 +3,11 @@ def my_each (array)# put argument(s) here
 
 
 
-array.each do |x|
-    yield x 
+i = 0 
+
+while i < array.length 
+
+ 
 
  end 
 
