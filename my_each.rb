@@ -13,9 +13,9 @@ array.each do |x|
 return array[i]
 end 
 
-tas = ['arel', 'jon', 'logan', 'spencer']
+#tas = ['arel', 'jon', 'logan', 'spencer']
 
-my_each(tas) do |i|
-  print i
-end
+#my_each(tas) do |i|
+ # print i
+#end
   
