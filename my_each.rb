@@ -7,7 +7,7 @@ i = 0
 
 while i < array.length 
 
-yield array[i]
+return yield array[i]
 
  i += 1 
  
