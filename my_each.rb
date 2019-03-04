@@ -10,7 +10,7 @@ array.each do |x|
     yield x 
   #  i = i + 1
  end 
-return array[i]
+#return array[i]
 end 
 
 #tas = ['arel', 'jon', 'logan', 'spencer']
